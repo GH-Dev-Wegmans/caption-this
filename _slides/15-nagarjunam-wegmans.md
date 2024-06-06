@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our slide deck!"  -- will this change be in staging or working
 ---
 
-Caption here
+Hello.. this is my first edit in git!!! By Nags
 
 ![snowoctocat](https://octodex.github.com/images/snowoctocat.png)
 {: .center}
